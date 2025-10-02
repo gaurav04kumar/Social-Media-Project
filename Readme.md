@@ -1,0 +1,1 @@
+# A Social Media Project using the MERN Tech Stack
